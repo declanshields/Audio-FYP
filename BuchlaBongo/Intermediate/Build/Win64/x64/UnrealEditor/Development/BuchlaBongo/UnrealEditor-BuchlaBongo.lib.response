@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BuchlaBongo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_5.2\FYP\Intermediate\Build\Win64\x64\FYPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\UE_5.2\FYP\Plugins\BuchlaBongo\Intermediate\Build\Win64\x64\UnrealEditor\Development\BuchlaBongo\Module.BuchlaBongo.cpp.obj"
+"D:\UE_5.2\FYP\Plugins\BuchlaBongo\Intermediate\Build\Win64\x64\UnrealEditor\Development\BuchlaBongo\Default.rc2.res"
+/OUT:"D:\UE_5.2\FYP\Plugins\BuchlaBongo\Intermediate\Build\Win64\x64\UnrealEditor\Development\BuchlaBongo\UnrealEditor-BuchlaBongo.lib"
